@@ -1,5 +1,5 @@
 ---
-path: /2018-06-24/my-first-blog
+path: my-first-blog
 date: '2018-06-24'
 title: my first blog
 ---
